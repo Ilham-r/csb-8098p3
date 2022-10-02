@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "https://ilham-r.github.io/csb-8098p3/static/css/main.cd83856d.chunk.css",
+    "main.js": "https://ilham-r.github.io/csb-8098p3/static/js/main.1e59d441.chunk.js",
+    "main.js.map": "https://ilham-r.github.io/csb-8098p3/static/js/main.1e59d441.chunk.js.map",
+    "runtime-main.js": "https://ilham-r.github.io/csb-8098p3/static/js/runtime-main.73231f4f.js",
+    "runtime-main.js.map": "https://ilham-r.github.io/csb-8098p3/static/js/runtime-main.73231f4f.js.map",
+    "static/js/2.f484428d.chunk.js": "https://ilham-r.github.io/csb-8098p3/static/js/2.f484428d.chunk.js",
+    "static/js/2.f484428d.chunk.js.map": "https://ilham-r.github.io/csb-8098p3/static/js/2.f484428d.chunk.js.map",
+    "index.html": "https://ilham-r.github.io/csb-8098p3/index.html",
+    "static/css/main.cd83856d.chunk.css.map": "https://ilham-r.github.io/csb-8098p3/static/css/main.cd83856d.chunk.css.map",
+    "static/js/2.f484428d.chunk.js.LICENSE.txt": "https://ilham-r.github.io/csb-8098p3/static/js/2.f484428d.chunk.js.LICENSE.txt",
+    "static/media/icon-arrow-down.979ef07a.svg": "https://ilham-r.github.io/csb-8098p3/static/media/icon-arrow-down.979ef07a.svg",
+    "static/media/icon-facebook.671fd333.svg": "https://ilham-r.github.io/csb-8098p3/static/media/icon-facebook.671fd333.svg",
+    "static/media/icon-hamburger.7764b7eb.svg": "https://ilham-r.github.io/csb-8098p3/static/media/icon-hamburger.7764b7eb.svg",
+    "static/media/icon-instagram.7d97118a.svg": "https://ilham-r.github.io/csb-8098p3/static/media/icon-instagram.7d97118a.svg",
+    "static/media/icon-pinterest.fd8b84da.svg": "https://ilham-r.github.io/csb-8098p3/static/media/icon-pinterest.fd8b84da.svg",
+    "static/media/icon-twitter.23df5d42.svg": "https://ilham-r.github.io/csb-8098p3/static/media/icon-twitter.23df5d42.svg",
+    "static/media/image-gallery-cone.461ff421.jpg": "https://ilham-r.github.io/csb-8098p3/static/media/image-gallery-cone.461ff421.jpg",
+    "static/media/image-gallery-cone.7b101d01.jpg": "https://ilham-r.github.io/csb-8098p3/static/media/image-gallery-cone.7b101d01.jpg",
+    "static/media/image-gallery-milkbottles.54f60261.jpg": "https://ilham-r.github.io/csb-8098p3/static/media/image-gallery-milkbottles.54f60261.jpg",
+    "static/media/image-gallery-orange.373d43f1.jpg": "https://ilham-r.github.io/csb-8098p3/static/media/image-gallery-orange.373d43f1.jpg",
+    "static/media/image-gallery-orange.49f4212b.jpg": "https://ilham-r.github.io/csb-8098p3/static/media/image-gallery-orange.49f4212b.jpg",
+    "static/media/image-gallery-sugar-cubes.fefc3841.jpg": "https://ilham-r.github.io/csb-8098p3/static/media/image-gallery-sugar-cubes.fefc3841.jpg",
+    "static/media/image-gallery-sugarcubes.09b72f4f.jpg": "https://ilham-r.github.io/csb-8098p3/static/media/image-gallery-sugarcubes.09b72f4f.jpg",
+    "static/media/image-graphic-design.09c20c2d.jpg": "https://ilham-r.github.io/csb-8098p3/static/media/image-graphic-design.09c20c2d.jpg",
+    "static/media/image-graphic-design.7ac8bdf0.jpg": "https://ilham-r.github.io/csb-8098p3/static/media/image-graphic-design.7ac8bdf0.jpg",
+    "static/media/image-header.49b52ffa.jpg": "https://ilham-r.github.io/csb-8098p3/static/media/image-header.49b52ffa.jpg",
+    "static/media/image-header.9167cda0.jpg": "https://ilham-r.github.io/csb-8098p3/static/media/image-header.9167cda0.jpg",
+    "static/media/image-photography.104cf40b.jpg": "https://ilham-r.github.io/csb-8098p3/static/media/image-photography.104cf40b.jpg",
+    "static/media/image-photography.26df83b3.jpg": "https://ilham-r.github.io/csb-8098p3/static/media/image-photography.26df83b3.jpg",
+    "static/media/logo.4271b899.svg": "https://ilham-r.github.io/csb-8098p3/static/media/logo.4271b899.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73231f4f.js",
+    "static/js/2.f484428d.chunk.js",
+    "static/css/main.cd83856d.chunk.css",
+    "static/js/main.1e59d441.chunk.js"
+  ]
+}
